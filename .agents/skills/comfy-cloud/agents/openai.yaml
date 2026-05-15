@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comfy Cloud"
+  short_description: "Inspect Comfy Cloud jobs, assets, and saved workflows."
+  default_prompt: "Use $comfy-cloud to inspect my Comfy Cloud jobs, assets, and saved workflows."
